@@ -12,7 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "express-pino-logger": "^4.0.0",
     "knex": "^0.20.11",
+    "pino": "^6.1.0",
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
